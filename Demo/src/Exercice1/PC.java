@@ -1,3 +1,7 @@
+package Exercice1;
+
+import Exercice1.Empruntable;
+
 public class PC implements Empruntable {
 
     private String marque;
@@ -16,7 +20,7 @@ public class PC implements Empruntable {
 
     @Override
     public String toString() {
-        return "PC{" +
+        return "Exercice1.PC{" +
                 "marque='" + marque + '\'' +
                 ", type='" + type + '\'' +
                 ", disqueDur='" + disqueDur + '\'' +

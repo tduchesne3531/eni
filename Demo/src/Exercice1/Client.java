@@ -1,3 +1,5 @@
+package Exercice1;
+
 import java.util.*;
 
 public class Client {
@@ -26,7 +28,7 @@ public class Client {
 
     @Override
     public String toString() {
-        return "Client{" +
+        return "Exercice1.Client{" +
                 "nom='" + nom + '\'' +
                 ", prenom='" + prenom + '\'' +
                 ", age=" + age +

@@ -1,6 +1,10 @@
+package Exercice1;
+
+import Exercice1.Document;
+
 import java.time.LocalDate;
 
-public class Journal extends Document{
+public class Journal extends Document {
 
     private LocalDate dateParution;
 

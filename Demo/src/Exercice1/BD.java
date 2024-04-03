@@ -1,4 +1,6 @@
-public class BD extends Document{
+package Exercice1;
+
+public class BD extends Document {
 
     private String dessinateur;
 

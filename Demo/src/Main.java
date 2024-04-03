@@ -15,13 +15,4 @@ public class Main {
 
     }
 
-//    public static BigInteger getFactorial(int f) {
-//        if (f < 2) {
-//            return BigInteger.valueOf(1);
-//        }
-//        else {
-//            return IntStream.rangeClosed(2, f).mapToObj(BigInteger::valueOf).reduce(BigInteger::multiply).get();
-//        }
-//    }
-
 }

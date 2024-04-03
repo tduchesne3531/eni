@@ -1,3 +1,5 @@
+package Exercice1;
+
 public class Document {
 
     protected String titre;
