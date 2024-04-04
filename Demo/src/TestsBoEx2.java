@@ -7,7 +7,7 @@ import Exercice2.fr.eni.annuaire.data.Contacts;
 import Exercice2.fr.eni.annuaire.data.Utilisateurs;
 
 
-public class TestsBo {
+public class TestsBoEx2 {
 
 	public static void main(String[] args) {		
 		System.out.println("Partie 1 - Tests de la couche métier.");

@@ -21,6 +21,6 @@ public class Personnel extends Contact {
     public String toString() {
         return "Personnel{" +
                 "dateAnniversaire=" + dateAnniversaire +
-                "} " + super.toString() + getNature();
+                "} " + super.toString();
     }
 }

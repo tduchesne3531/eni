@@ -30,8 +30,11 @@ public abstract class Contact{
                 ", telephone='" + telephone + '\'' +
                 ", adresseMail='" + adresseMail + '\'' +
                 ", favoris=" + favoris +
+                ", nature='" + getNature() + '\'' + // Affichage de la nature du contact ici
+                ", adresse=" + adresse +
                 '}';
     }
+
 
     public long getNumero() {
         return numero;

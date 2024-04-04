@@ -19,6 +19,6 @@ public class Professionnel extends Contact {
     public String toString() {
         return "Professionnel{" +
                 "nomEntreprise='" + nomEntreprise + '\'' +
-                "} " + super.toString() + getNature();
+                "} " + super.toString();
     }
 }
